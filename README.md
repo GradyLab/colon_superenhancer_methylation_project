@@ -1,4 +1,2 @@
 # colon_superenhancer_methylation_project
-Colon super-enhancer methylation impacts gene expression in a tissue-specific manner in colorectal cancer.
-
-Code for the paper.
+Code repository for the manuscript, "Methylation at Normal Crypt Super-enhancers Mediates Cancer-specific Expression in Colon Cancer", currently in preparation for publication.
